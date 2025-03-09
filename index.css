@@ -1,0 +1,44 @@
+.job-card{
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: green;
+  margin: 10px;
+  padding: 16px;
+  margin:8px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px;
+}
+.job-card h1{
+  font-size: 15px;
+  margin: 0;
+  color:plum;
+}
+.job-card h2{
+  font-size: 14px;
+  margin: 0;
+  color: purple;
+}
+.job-card h3{
+  font-size: 14px;
+  margin: 0;
+  color: bisque;
+}
+.job-card h4{
+  font-size: 13px;
+  margin: 0;
+  color: aliceblue;
+}
+.job-card h5{
+  font-size: 15px;
+  margin: 0;
+  color: aqua;
+}
+button{
+  padding: 8px 10px;
+  margin-top: 8px;
+  cursor: pointer;
+  color: brown;
+}
